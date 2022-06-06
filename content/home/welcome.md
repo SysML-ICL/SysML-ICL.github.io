@@ -25,4 +25,8 @@ We are a group of researchers interested in keeping up with the latest work in t
 
 We host both a bi-weekly **reading group** and an occasional **seminar series**.
 
-Join our mailing-list here: <TODO>
+--- 
+
+### Why join?
+
+To keep up with this fast-moving field and get a chance to practice summarisation and presentation skills.

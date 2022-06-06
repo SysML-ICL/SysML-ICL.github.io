@@ -1,37 +1,38 @@
 ---
-title: "Seminar #1 - "
+title: "Seminar #1 - TBD "
 
-location: ICL - Department of Computing 
-address:
-  postcode: 'Room X'
+location: Huxley 315 - Imperial College London
+#address:
+#  postcode: 'Room 145'
 
-summary: An example seminar.
+
+summary: First Seminar Session
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-05-25T13:00:00Z'
-date_end: '2022-05-25T15:00:00Z'
+date: '2022-06-16T10:30:00Z'
+date_end: '2022-06-16T11:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-06-06T00:00:00Z'
 
 authors: []
 tags: []
 categories: ['Seminar']
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 url_code: ''
-url_pdf: 'https://www.usenix.org/system/files/osdi18-moritz.pdf'
+url_pdf: ''
 url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=XIu8ZF7RSkw'
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -48,4 +49,5 @@ slides:
 projects:
 ---
 
-# Discussion Notes
+TBD Placeholder
+

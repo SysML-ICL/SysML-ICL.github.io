@@ -1,21 +1,21 @@
 ---
-title: "Session #1 - "
+title: "Reading Group Session #1"
 
-location: ICL - Department of Computing 
-address:
-  postcode: 'Room 145'
+location: Huxley 315 - Imperial College London
+#address:
+#  postcode: 'Room 145'
 
-summary: Ray
+summary: Reading
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-05-25T13:00:00Z'
-date_end: '2022-05-25T15:00:00Z'
+date: '2022-06-09T10:30:00Z'
+date_end: '2022-06-09T11:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-06-06T00:00:00Z'
 
 authors: []
 tags: []
@@ -25,13 +25,13 @@ categories: ['Reading Group']
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Google AI**](https://ai.googleblog.com/2022/05/alpa-automated-model-parallel-deep.html)'
   focal_point: Right
 
 url_code: ''
-url_pdf: 'https://www.usenix.org/system/files/osdi18-moritz.pdf'
+url_pdf: ''
 url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=XIu8ZF7RSkw'
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -48,6 +48,16 @@ slides:
 projects:
 ---
 
+# Papers
+Papers covered will be: 
+1. [vPipe: A Virtualized Acceleration System for Achieving Efficient and Scalable Pipeline Parallel DNN Training](https://ieeexplore.ieee.org/iel7/71/9497774/09472938.pdf), TPDS'21
+2. [Alpa: Automating Inter-and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/pdf/2201.12023), OSDI'22
+
+
 # Discussion Notes
 
-In this seminar we saw lorem ipsum dolore matte
+Come back later when this section is populated with the discussion.
+
+## vPipe
+
+## Alpa

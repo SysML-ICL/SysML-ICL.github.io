@@ -18,7 +18,7 @@ authors: []
 tags: []
 categories: ['News']
 
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Author Page**](https://wsmoses.com)'

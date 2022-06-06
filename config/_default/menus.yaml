@@ -10,10 +10,10 @@ main:
   - name: Why SysML?
     url: https://arxiv.org/abs/1904.03257
     weight: 10
-  - name: Reading List
+  - name: Reading Group Sessions
     url: reading-group
     weight: 45
-  - name: Seminars
+  - name: Seminars Sessions
     url: seminar
     weight: 50
   - name: Contact
