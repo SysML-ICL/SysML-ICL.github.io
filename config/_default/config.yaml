@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: SysML@ICL
-baseURL: 'https://sysml-icl.github.io' # Website URL
+baseURL: 'https://sysml-icl.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
