@@ -5,7 +5,7 @@ location: Huxley 315 - Imperial College London
 #address:
 #  postcode: 'Room 145'
 
-summary: Reading
+summary: vPipe (TPDS'21) & Alpa (OSDI'22)
 abstract: ''
 
 # Talk start and end times.
