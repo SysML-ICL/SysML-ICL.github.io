@@ -17,7 +17,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-06-06T00:00:00Z'
 
-authors: ["none"]
+authors: []
 tags: ["DL Training", "Memory Management", "Distributed", "Compilers", "Auto-parallelization"]
 categories: ['Reading Group']
 
@@ -61,3 +61,7 @@ Come back later when this section is populated with the discussion.
 ## vPipe
 
 ## Alpa
+
+---
+
+<h5 style="text-align: center;">Share</h5>

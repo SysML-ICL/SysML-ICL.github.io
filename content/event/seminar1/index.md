@@ -18,7 +18,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-06-06T00:00:00Z'
 
-authors: ["none"]
+authors: []
 tags: []
 categories: ['Seminar']
 
@@ -51,3 +51,6 @@ projects:
 
 TBD Placeholder
 
+---
+
+<h5 style="text-align: center;">Share</h5>

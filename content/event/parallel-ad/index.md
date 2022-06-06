@@ -14,7 +14,7 @@ all_day: false
 
 publishDate: '2022-05-11T00:00:00Z'
 
-authors: ["none"]
+authors: []
 tags: []
 categories: ['News']
 
