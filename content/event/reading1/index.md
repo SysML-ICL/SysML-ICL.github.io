@@ -17,7 +17,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-06-06T00:00:00Z'
 
-authors: []
+authors: ["none"]
 tags: []
 categories: ['Reading Group']
 
