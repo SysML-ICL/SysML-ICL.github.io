@@ -6,7 +6,7 @@ location: Huxley 315 - Imperial College London
 #  postcode: 'Room 145'
 
 summary: vPipe (TPDS'21) & Alpa (OSDI'22)
-abstract: ''
+abstract: vPipe (TPDS'21) & Alpa (OSDI'22)
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -26,6 +26,7 @@ categories: ['Reading Group']
 featured: true
 
 image:
+  placement: 1
   caption: 'Image credit: [**Google AI**](https://ai.googleblog.com/2022/05/alpa-automated-model-parallel-deep.html)'
   focal_point: Right
 
