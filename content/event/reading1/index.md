@@ -26,9 +26,12 @@ categories: ['Reading Group']
 featured: true
 
 image:
-  placement: 1
   caption: 'Image credit: [**Google AI**](https://ai.googleblog.com/2022/05/alpa-automated-model-parallel-deep.html)'
-  focal_point: Right
+  focal_point: Center
+
+header:
+  image: "featured.png"
+  caption: 'Image credit: [**Google AI**](https://ai.googleblog.com/2022/05/alpa-automated-model-parallel-deep.html)'
 
 url_code: ''
 url_pdf: ''
