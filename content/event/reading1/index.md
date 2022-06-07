@@ -18,6 +18,7 @@ all_day: false
 publishDate: '2022-06-06T00:00:00Z'
 
 authors: []
+profile: false
 tags: ["DL Training", "Memory Management", "Distributed", "Compilers", "Auto-parallelization"]
 categories: ['Reading Group']
 
