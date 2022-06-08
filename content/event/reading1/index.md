@@ -1,7 +1,7 @@
 ---
 title: "Reading Group Session #1"
 
-location: Huxley 315 - Imperial College London
+location: Huxley 217 - Imperial College London
 #address:
 #  postcode: 'Room 145'
 
