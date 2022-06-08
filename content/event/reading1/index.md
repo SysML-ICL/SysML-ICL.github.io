@@ -6,7 +6,7 @@ location: Huxley 315 - Imperial College London
 #  postcode: 'Room 145'
 
 summary: vPipe (TPDS'21) & Alpa (OSDI'22)
-abstract: vPipe (TPDS'21) & Alpa (OSDI'22)
+abstract: "We discuss two recent works focused on distributed DL training. vPipe is a virtualized memory manager for pipeline parallel training. Alpa is a runtime capable of autoparallelization of large deep networks."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
