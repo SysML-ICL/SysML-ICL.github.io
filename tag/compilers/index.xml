@@ -10,9 +10,47 @@
 &lt;li>&lt;a href="https://arxiv.org/pdf/2201.12023" target="_blank" rel="noopener">Alpa: Automating Inter-and Intra-Operator Parallelism for Distributed Deep Learning&lt;/a>, OSDI'22&lt;/li>
 &lt;/ol>
 &lt;h1 id="discussion-notes">Discussion Notes&lt;/h1>
-&lt;p>Come back later when this section is populated with the discussion.&lt;/p>
+&lt;p>In these discussion notes we attempt to summarize points made during the discussion on possible future directions.&lt;/p>
 &lt;h2 id="vpipe">vPipe&lt;/h2>
+&lt;h3 id="online-partitioning">Online partitioning&lt;/h3>
+&lt;p>vPipes justification for the need for an online repartitioning algorithm is Neural Architecture Search (NAS).
+Very few systems are using online partitioning nowadays. The question is, is there a need for them?
+What are other motivating reasons for online partitioning?&lt;/p>
+&lt;ul>
+&lt;li>To deal with failures&lt;/li>
+&lt;li>To support elasticity&lt;/li>
+&lt;li>NAS&lt;/li>
+&lt;li>Dynamic networks&lt;/li>
+&lt;/ul>
+&lt;p>In short, any source of dynamism in the training is justifiable.
+What are other sources of dynamism in training?&lt;/p>
+&lt;h3 id="pcie-usage">PCIe Usage&lt;/h3>
+&lt;p>In vPipe PCIe is shared by swapping and inter-host activation communication.
+The algorithm which decides the swap-recompute plan attempts to fill all the PCIe bandwidth but ignores activation communication traffic.
+Is this optimal? Won&amp;rsquo;t this cause stalls by oversubscribing the PCIe bus?
+Still, vPipe prioritizes inter-host activation communication.&lt;/p>
 &lt;h2 id="alpa">Alpa&lt;/h2>
+&lt;h3 id="device-meshes">Device Meshes&lt;/h3>
+&lt;p>Alpa maps computations to a 2D mesh of devices. This seems to be due to the fact
+that there are 2 layers in the device hierarchy, intra-host and inter-host,
+where communication intra-host is faster than inter-host.
+If there were a third level in this hierarchy, perhaps a 3D mesh of devices would make sense.&lt;/p>
+&lt;h2 id="both-papers">Both papers&lt;/h2>
+&lt;p>We noticed that both papers attempt to solve the NP-Complete task of parallelizing
+a computational graph across several devices for optimal performance.
+This task is too difficult to solve directly.
+To tackle this, both papers use a decomposition approach, instead solving two subproblems optimally:&lt;/p>
+&lt;ul>
+&lt;li>Alpa first uses inter-op parallelism, then intra-op parallelism on each stage.&lt;/li>
+&lt;li>vPipe first uses inter-op parallelism, then computes a swap/recompute plan for each stage.&lt;/li>
+&lt;/ul>
+&lt;p>Why can&amp;rsquo;t it be solved directly? Is it simply too large a search problem?
+Are we losing something by not solving the original problem optimally?&lt;/p>
+&lt;h3 id="heterogeneous-clusters">Heterogeneous Clusters&lt;/h3>
+&lt;p>Heterogeneous clusters are a reality in several organizations which over time accumulate several generations of accelerators.
+Furthermore, CPUs are a largely unused resource that is available.
+Both papers, and other systems, generally target homogeneous clusters only.
+We believe there is space for novel systems targeting Heterogeneous clusters, though the problem of partitioning and parallelizing becomes more difficult.&lt;/p>
 &lt;hr>
 &lt;h5 style="text-align: center;">Share&lt;/h5></description></item><item><title>Parallel Automatic Differentiation Talk</title><link>https://sysml-icl.github.io/event/parallel-ad/</link><pubDate>Fri, 13 May 2022 11:00:00 +0000</pubDate><guid>https://sysml-icl.github.io/event/parallel-ad/</guid><description>&lt;p>&lt;strong>Talk Title:&lt;/strong> Enzyme: High-Performance, Cross-Language, and Parallel Automatic Differentiation&lt;/p>
 &lt;p>&lt;a href="https://imperial-ac-uk.zoom.us/j/97378427420?pwd=VENub3h5eVJscXVTbDk5cG9sVGFMdz09" target="_blank" rel="noopener">Zoom Link&lt;/a>&lt;/p>
