@@ -115,6 +115,3 @@ Furthermore, CPUs are a largely unused resource that is available.
 Both papers, and other systems, generally target homogeneous clusters only.
 We believe there is space for novel systems targeting Heterogeneous clusters, though the problem of partitioning and parallelizing becomes more difficult.
 
----
-
-<h5 style="text-align: center;">Share</h5>
