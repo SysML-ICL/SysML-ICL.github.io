@@ -23,7 +23,7 @@ tags: ["DL Training", "Memory Management", "Distributed", "Compilers", "Auto-par
 categories: ['Reading Group']
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false 
 
 image:
   caption: 'Image credit: [**Google AI**](https://ai.googleblog.com/2022/05/alpa-automated-model-parallel-deep.html)'
