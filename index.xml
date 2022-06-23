@@ -22,7 +22,23 @@ Paper Award at PACT.&lt;/p>
 &lt;p>&lt;strong>Paper Abstract:&lt;/strong>
 Inspired by progress in large-scale language modeling, we apply a similar approach towards building a single generalist agent beyond the realm of text outputs. The agent, which we refer to as Gato, works as a multi-modal, multi-task, multi-embodiment generalist policy. The same network with the same weights can play Atari, caption images, chat, stack blocks with a real robot arm and much more, deciding based on its context whether to output text, joint torques, button presses, or other tokens. In this report we describe the model and the data, and document the current capabilities of Gato.&lt;/p>
 &lt;h1 id="discussion-notes">Discussion Notes&lt;/h1>
-&lt;p>Please come back when this is filled in with discussion notes.&lt;/p></description></item><item><title>Reading Group Session #1</title><link>https://sysml-icl.github.io/event/reading1/</link><pubDate>Thu, 09 Jun 2022 10:30:00 +0000</pubDate><guid>https://sysml-icl.github.io/event/reading1/</guid><description>&lt;ul class="cta-group">
+&lt;p>Gato is a new take on how to achieve multi-task agents based on autoregressive modeling of sequence data.&lt;/p>
+&lt;p>This paper was perhaps a bit out of scope for a SysML group, but we came up with a few future directions from the reading.&lt;/p>
+&lt;h2 id="input-pipeline">Input pipeline&lt;/h2>
+&lt;p>The input pipeline in Gato is far more complex than a conventional Supervised Learning input pipeline&lt;/p>
+&lt;p>The inputs come from a large number of datasets (604, one per task) all which have large corpora.
+Are available sampling mechanisms able to scale to these dimensions?&lt;/p>
+&lt;p>Furthermore, on each iteration it requires tokenization, linearization and embedding of multi-modal inputs such that a batch containing a mix of tasks is formed.
+While images are embedded using a ResNet block, text, actions and observations are embedded through a learned embedding.
+Are existing libraries such as tf.data capable of such complex input pipelines? Can they maintain good throughput with these unbalanced tasks?&lt;/p>
+&lt;h2 id="democratizing-fine-tuning">Democratizing Fine-Tuning&lt;/h2>
+&lt;p>A common pattern nowadays seems to be that large research groups will pre-train extremely large general models (language models) and other groups will then fine-tune them to achieve good performance on a specific task (fine-tuning).
+How is the workload of fine-tuning different from pre-training? Would it be possible to democratize fine-tuning such that it can be done on a laptop?&lt;/p>
+&lt;h2 id="attention-memory-and-context-windows">Attention, Memory and Context Windows&lt;/h2>
+&lt;p>To maintain a memory of the recent past, Gato uses a sliding window of recent observations and actions.
+To achieve the long-term planning needed for general RL, an infinitely sized window would be needed.
+However, growing the window size in current Transformer implementations would grow memory and compute requirements too.
+Are Transformers the correct approach to RL? Could transformers be augmented with a long-term memory component? Or could their training systems be fundamentally altered such that they can handle larger windows without growing memory requirements?&lt;/p></description></item><item><title>Reading Group Session #1</title><link>https://sysml-icl.github.io/event/reading1/</link><pubDate>Thu, 09 Jun 2022 10:30:00 +0000</pubDate><guid>https://sysml-icl.github.io/event/reading1/</guid><description>&lt;ul class="cta-group">
 &lt;li>
 &lt;a href="https://teams.microsoft.com/l/meetup-join/19%3aLiP6Evh3ssJQ3g41q8vAsBNwwOFTzp7d_qq1y7oTo7A1%40thread.tacv2/1654597085925?context=%7b%22Tid%22%3a%222b897507-ee8c-4575-830b-4f8267c3d307%22%2c%22Oid%22%3a%228d261fd5-be8f-44eb-b630-d5b230fc5ec3%22%7d" class="btn btn-primary px-3 py-3">Join Session!&lt;/a>
 &lt;/li>
