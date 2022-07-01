@@ -1,5 +1,5 @@
 ---
-title: "Seminar #1 - Abhinav Jangda - CoCoNet (ASPLOS'22)"
+title: "Seminar #3 - Abhinav Jangda - CoCoNet (ASPLOS'22)"
 
 location: Huxley 315 - Imperial College London
 #address:
@@ -40,7 +40,7 @@ publishDate: '2022-06-21T00:00:00Z'
 
 authors: []
 profile: false
-tags: []
+tags: ['Domain Specific Languages', 'Compilers', 'DL Training', 'Communication', 'Optimization', 'Stencil Computations', 'Pipeline Parallelism', 'Tensor Parallelism', 'Data Parallelism', 'MPI', 'Collective Communication']
 categories: ['Seminar']
 
 # Is this a featured talk? (true/false)

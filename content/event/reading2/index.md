@@ -23,7 +23,7 @@ tags: ["Transformers", "DL Training", "Multi-Modal", "Multi-Task", "AGI", "Embed
 categories: ['Reading Group']
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**DeepMind**](https://www.deepmind.com/publications/a-generalist-agent)'
