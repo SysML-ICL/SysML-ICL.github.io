@@ -82,6 +82,3 @@ efficiently. His work was invited for an article in USENIX :login;, has
 received an ACM SIGPLAN Distinguished Paper Award at OOPSLA, and a Best
 Paper Award at PACT.
 
----
-
-<h5 style="text-align: center;">Share</h5>

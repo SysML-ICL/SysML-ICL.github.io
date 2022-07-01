@@ -22,12 +22,12 @@ abstract: |
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-07-28T10:30:00Z'
-date_end: '2022-07-28T11:30:00Z'
+date: '2022-07-21T10:30:00Z'
+date_end: '2022-07-21T11:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-06-21T00:00:00Z'
+publishDate: '2022-07-01T00:00:00Z'
 
 authors: []
 profile: false
@@ -73,6 +73,3 @@ a M. Sc. Business Informatics with a specialization in Data and Web Science at
 Universität Mannheim, with a semester at VU Amsterdam (with courses from CWI).
 In his Master's thesis, he worked on scalable sequential pattern mining.
 
----
-
-<h5 style="text-align: center;">Share</h5>
