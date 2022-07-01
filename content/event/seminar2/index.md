@@ -9,16 +9,16 @@ location: Huxley 315 - Imperial College London
 summary: Alexander Renz-Wieland will present his work on Adaptive Parameter Servers and NuPS (SIGMOD'22)
 abstract: |
   To keep up with increasing dataset sizes and model complexity, distributed
-training has become a necessity for large machine learning tasks. Parameter
-servers (PSs) ease the implementation of distributed parameter management, but
-can induce severe communication overhead. In some cases, distributed performance
-may even fall behind that of single node baselines. In this talk, I present our
-work on making PSs more communication-efficient by adapting to the underlying
-workload. I discuss (i) how PSs can adapt parameter allocation dynamically to
-exploit access locality, (ii) how PSs can tailor their management techniques to
-individual parameters, and (iii) how PSs can do this adaptation automatically,
-without requiring tuning. Experimentally, such adaptation drastically improved
-PS efficiency, resulting in near-linear speed-ups over single node baselines. 
+  training has become a necessity for large machine learning tasks. Parameter
+  servers (PSs) ease the implementation of distributed parameter management, but
+  can induce severe communication overhead. In some cases, distributed performance
+  may even fall behind that of single node baselines. In this talk, I present our
+  work on making PSs more communication-efficient by adapting to the underlying
+  workload. I discuss (i) how PSs can adapt parameter allocation dynamically to
+  exploit access locality, (ii) how PSs can tailor their management techniques to
+  individual parameters, and (iii) how PSs can do this adaptation automatically,
+  without requiring tuning. Experimentally, such adaptation drastically improved
+  PS efficiency, resulting in near-linear speed-ups over single node baselines. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
