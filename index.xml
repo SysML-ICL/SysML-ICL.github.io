@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SysML@ICL</title><link>https://sysml-icl.github.io/</link><atom:link href="https://sysml-icl.github.io/index.xml" rel="self" type="application/rss+xml"/><description>SysML@ICL</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2022 10:30:00 +0000</lastBuildDate><image><url>https://sysml-icl.github.io/media/logo_hu0e4a96b537c97ee56dff564995bc792a_102878_300x300_fit_lanczos_3.png</url><title>SysML@ICL</title><link>https://sysml-icl.github.io/</link></image><item><title>Seminar #2 - Alexander Renz-Wieland - NuPS (SIGMOD'22)</title><link>https://sysml-icl.github.io/event/seminar2/</link><pubDate>Thu, 28 Jul 2022 10:30:00 +0000</pubDate><guid>https://sysml-icl.github.io/event/seminar2/</guid><description>&lt;ul class="cta-group">
-&lt;li>
-&lt;a href="https://teams.microsoft.com/l/meetup-join/19%3aLiP6Evh3ssJQ3g41q8vAsBNwwOFTzp7d_qq1y7oTo7A1%40thread.tacv2/1654597085925?context=%7b%22Tid%22%3a%222b897507-ee8c-4575-830b-4f8267c3d307%22%2c%22Oid%22%3a%228d261fd5-be8f-44eb-b630-d5b230fc5ec3%22%7d" class="btn btn-primary px-3 py-3">Join Session!&lt;/a>
-&lt;/li>
-&lt;/ul>
-&lt;h1 id="speaker-bio">Speaker Bio&lt;/h1>
-&lt;p>Alexander Renz-Wieland is a PhD student working on large-scale machine learning
-student in the Database Systems and Information Management (DIMA) group at
-Technische Universität Berlin since September 2017. He is supervised by Volker
-Markl and Rainer Gemulla (Universität Mannheim). Prior to his PhD, he completed
-a M. Sc. Business Informatics with a specialization in Data and Web Science at
-Universität Mannheim, with a semester at VU Amsterdam (with courses from CWI).
-In his Master&amp;rsquo;s thesis, he worked on scalable sequential pattern mining.&lt;/p>
-&lt;hr>
-&lt;h5 style="text-align: center;">Share&lt;/h5></description></item><item><title>Seminar #3 - Abhinav Jangda - CoCoNet (ASPLOS'22)</title><link>https://sysml-icl.github.io/event/seminar3/</link><pubDate>Thu, 28 Jul 2022 10:30:00 +0000</pubDate><guid>https://sysml-icl.github.io/event/seminar3/</guid><description>&lt;ul class="cta-group">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SysML@ICL</title><link>https://sysml-icl.github.io/</link><atom:link href="https://sysml-icl.github.io/index.xml" rel="self" type="application/rss+xml"/><description>SysML@ICL</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2022 10:30:00 +0000</lastBuildDate><image><url>https://sysml-icl.github.io/media/logo_hu0e4a96b537c97ee56dff564995bc792a_102878_300x300_fit_lanczos_3.png</url><title>SysML@ICL</title><link>https://sysml-icl.github.io/</link></image><item><title>Seminar #3 - Abhinav Jangda - CoCoNet (ASPLOS'22)</title><link>https://sysml-icl.github.io/event/seminar3/</link><pubDate>Thu, 28 Jul 2022 10:30:00 +0000</pubDate><guid>https://sysml-icl.github.io/event/seminar3/</guid><description>&lt;ul class="cta-group">
 &lt;li>
 &lt;a href="https://teams.microsoft.com/l/meetup-join/19%3aLiP6Evh3ssJQ3g41q8vAsBNwwOFTzp7d_qq1y7oTo7A1%40thread.tacv2/1654597085925?context=%7b%22Tid%22%3a%222b897507-ee8c-4575-830b-4f8267c3d307%22%2c%22Oid%22%3a%228d261fd5-be8f-44eb-b630-d5b230fc5ec3%22%7d" class="btn btn-primary px-3 py-3">Join Session!&lt;/a>
 &lt;/li>
@@ -24,9 +10,19 @@ focuses on developing programming language abstractions and compilation
 techniques to help programmers leverage large scale systems
 efficiently. His work was invited for an article in USENIX :login;, has
 received an ACM SIGPLAN Distinguished Paper Award at OOPSLA, and a Best
-Paper Award at PACT.&lt;/p>
-&lt;hr>
-&lt;h5 style="text-align: center;">Share&lt;/h5></description></item><item><title>Reading Group Session #2</title><link>https://sysml-icl.github.io/event/reading2/</link><pubDate>Thu, 23 Jun 2022 10:30:00 +0000</pubDate><guid>https://sysml-icl.github.io/event/reading2/</guid><description>&lt;ul class="cta-group">
+Paper Award at PACT.&lt;/p></description></item><item><title>Seminar #2 - Alexander Renz-Wieland - NuPS (SIGMOD'22)</title><link>https://sysml-icl.github.io/event/seminar2/</link><pubDate>Thu, 21 Jul 2022 10:30:00 +0000</pubDate><guid>https://sysml-icl.github.io/event/seminar2/</guid><description>&lt;ul class="cta-group">
+&lt;li>
+&lt;a href="https://teams.microsoft.com/l/meetup-join/19%3aLiP6Evh3ssJQ3g41q8vAsBNwwOFTzp7d_qq1y7oTo7A1%40thread.tacv2/1654597085925?context=%7b%22Tid%22%3a%222b897507-ee8c-4575-830b-4f8267c3d307%22%2c%22Oid%22%3a%228d261fd5-be8f-44eb-b630-d5b230fc5ec3%22%7d" class="btn btn-primary px-3 py-3">Join Session!&lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;h1 id="speaker-bio">Speaker Bio&lt;/h1>
+&lt;p>Alexander Renz-Wieland is a PhD student working on large-scale machine learning
+student in the Database Systems and Information Management (DIMA) group at
+Technische Universität Berlin since September 2017. He is supervised by Volker
+Markl and Rainer Gemulla (Universität Mannheim). Prior to his PhD, he completed
+a M. Sc. Business Informatics with a specialization in Data and Web Science at
+Universität Mannheim, with a semester at VU Amsterdam (with courses from CWI).
+In his Master&amp;rsquo;s thesis, he worked on scalable sequential pattern mining.&lt;/p></description></item><item><title>Reading Group Session #2</title><link>https://sysml-icl.github.io/event/reading2/</link><pubDate>Thu, 23 Jun 2022 10:30:00 +0000</pubDate><guid>https://sysml-icl.github.io/event/reading2/</guid><description>&lt;ul class="cta-group">
 &lt;li>
 &lt;a href="https://teams.microsoft.com/l/meetup-join/19%3aLiP6Evh3ssJQ3g41q8vAsBNwwOFTzp7d_qq1y7oTo7A1%40thread.tacv2/1654597085925?context=%7b%22Tid%22%3a%222b897507-ee8c-4575-830b-4f8267c3d307%22%2c%22Oid%22%3a%228d261fd5-be8f-44eb-b630-d5b230fc5ec3%22%7d" class="btn btn-primary px-3 py-3">Join Session!&lt;/a>
 &lt;/li>
