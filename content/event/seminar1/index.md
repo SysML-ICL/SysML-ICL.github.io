@@ -1,12 +1,12 @@
 ---
-title: "Seminar #1 - Davis Blalock - MADDNESS (PMLR'21)"
+title: "Seminar #1 - Davis Blalock - MADDNESS (ICML'21)"
 
 location: Huxley 315 - Imperial College London
 #address:
 #  postcode: 'Room 145'
 
 
-summary: Davis Blalock will present his work on MADDNESS (PMLR'21)
+summary: Davis Blalock will present his work on MADDNESS (ICML'21)
 abstract: |
   Multiplying matrices is among the most fundamental and compute-intensive operations
   in machine learning. Consequently, there has been significant work on efficiently approximating matrix multiplies.
