@@ -37,7 +37,7 @@ tags: ['DL Training', 'Optimization', 'Approximate Methods', 'ML for MLSys', 'Qu
 categories: ['Seminar']
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: ''
