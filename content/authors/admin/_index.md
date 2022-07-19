@@ -61,6 +61,7 @@ email: 'pms20@ic.ac.uk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+weight: 1
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

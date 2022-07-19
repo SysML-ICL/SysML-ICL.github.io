@@ -57,6 +57,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'marcel.wagenlander19@imperial.ac.uk'
 
+weight: 2
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
