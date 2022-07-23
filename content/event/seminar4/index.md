@@ -37,7 +37,7 @@ date_end: '2022-09-08T11:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-08-23T00:00:00Z'
+publishDate: '2022-07-23T00:00:00Z'
 
 authors: []
 profile: false
@@ -72,6 +72,12 @@ projects:
 ---
 
 {{% cta cta_link="https://imperial-ac-uk.zoom.us/j/96569969529?pwd=anprUE80SkFvcFh5ajE4OG45V1J1Zz09" cta_text="Join Zoom Session!" %}}
+{{< center >}}
+{{< rawhtml >}}
+<a title="Add to Calendar" class="addeventatc" data-id="uf14485709" href="https://www.addevent.com/event/uf14485709" target="_blank">Add to Calendar</a>
+	<script type="text/javascript" src="https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+{{< /rawhtml >}}
+{{< /center >}}
 
 # Speaker Bio
 
