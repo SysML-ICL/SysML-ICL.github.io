@@ -8,11 +8,27 @@ location: Huxley 315 - Imperial College London
 
 summary: Colin Unger will present his work on Unity (OSDI'22)
 abstract: |
-This paper presents Unity, the first system that jointly optimizes algebraic transformations and parallelization in distributed DNN training. Unity represents both parallelization and algebraic transformations as substitutions on a unified parallel computation graph (PCG), which simultaneously expresses the computation, parallelization, and communication of a distributed DNN training procedure.
-
-Optimizations, in the form of graph substitutions, are automatically generated given a list of operator specifications, and are formally verified correct using an automated theorem prover. Unity then uses a novel hierarchical search algorithm to jointly optimize algebraic transformations and parallelization while maintaining scalability. The combination of these techniques provides a generic and extensible approach to optimizing distributed DNN training, capable of integrating new DNN operators, parallelization strategies, and model architectures with minimal manual effort.
-
-We evaluate Unity on seven real-world DNNs running on up to 192 GPUs on 32 nodes and show that Unity outperforms existing DNN training frameworks by up to 3.6× while keeping optimization times under 20 minutes. Unity is available to use as part of the open-source DNN training framework FlexFlow at [https://github.com/flexflow/flexflow](https://github.com/flexflow/flexflow).
+  This paper presents Unity, the first system that jointly optimizes algebraic
+  transformations and parallelization in distributed DNN training.
+  Unity represents both parallelization and algebraic transformations as
+  substitutions on a unified parallel computation graph (PCG), which 
+  simultaneously expresses the computation, parallelization, and communication
+  of a distributed DNN training procedure.
+  
+  Optimizations, in the form of graph substitutions, are automatically generated
+  given a list of operator specifications, and are formally verified correct using
+  an automated theorem prover. Unity then uses a novel hierarchical search algorithm
+  to jointly optimize algebraic transformations and parallelization while 
+  maintaining scalability. The combination of these techniques provides a generic
+  and extensible approach to optimizing distributed DNN training, capable of integrating
+  new DNN operators, parallelization strategies, and model architectures with
+  minimal manual effort.
+  
+  We evaluate Unity on seven real-world DNNs running on up to 192 GPUs on 32 nodes
+  and show that Unity outperforms existing DNN training frameworks by up to 3.6×
+  while keeping optimization times under 20 minutes. Unity is available to use
+  as part of the open-source DNN training framework FlexFlow at
+  [https://github.com/flexflow/flexflow](https://github.com/flexflow/flexflow).
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -55,7 +71,7 @@ slides:
 projects:
 ---
 
-{{% cta cta_link="https://teams.microsoft.com/l/meetup-join/19%3aLiP6Evh3ssJQ3g41q8vAsBNwwOFTzp7d_qq1y7oTo7A1%40thread.tacv2/1654597085925?context=%7b%22Tid%22%3a%222b897507-ee8c-4575-830b-4f8267c3d307%22%2c%22Oid%22%3a%228d261fd5-be8f-44eb-b630-d5b230fc5ec3%22%7d" cta_text="Join Session!" %}}
+{{% cta cta_link="https://imperial-ac-uk.zoom.us/j/96569969529?pwd=anprUE80SkFvcFh5ajE4OG45V1J1Zz09" cta_text="Join Zoom Session!" %}}
 
 # Speaker Bio
 

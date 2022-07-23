@@ -47,7 +47,7 @@ categories: ['Seminar']
 featured: true
 
 image:
-  caption: 'Image credit: [**CoCoNet Paper**](https://dl.acm.org/doi/pdf/10.1145/3503222.3507778)'
+  caption: ''
   focal_point: Right
 
 url_code: ''
@@ -70,7 +70,7 @@ slides:
 projects:
 ---
 
-{{% cta cta_link="https://teams.microsoft.com/l/meetup-join/19%3aLiP6Evh3ssJQ3g41q8vAsBNwwOFTzp7d_qq1y7oTo7A1%40thread.tacv2/1654597085925?context=%7b%22Tid%22%3a%222b897507-ee8c-4575-830b-4f8267c3d307%22%2c%22Oid%22%3a%228d261fd5-be8f-44eb-b630-d5b230fc5ec3%22%7d" cta_text="Join Session!" %}}
+{{% cta cta_link="https://imperial-ac-uk.zoom.us/j/91933548102?pwd=RFhsc1R0NWJldDFzNUZiMUU0dmd4dz09" cta_text="Join Zoom Session!" %}}
 
 # Speaker Bio
 
