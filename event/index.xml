@@ -1,8 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Events | SysML@ICL</title><link>https://sysml.doc.ic.ac.uk/event/</link><atom:link href="https://sysml.doc.ic.ac.uk/event/index.xml" rel="self" type="application/rss+xml"/><description>Recent &amp; Upcoming Events</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2022 10:30:00 +0000</lastBuildDate><image><url>https://sysml.doc.ic.ac.uk/media/logo_hu0e4a96b537c97ee56dff564995bc792a_102878_300x300_fit_lanczos_3.png</url><title>Recent &amp; Upcoming Events</title><link>https://sysml.doc.ic.ac.uk/event/</link></image><item><title>Seminar #3 - Abhinav Jangda - CoCoNet (ASPLOS'22)</title><link>https://sysml.doc.ic.ac.uk/event/seminar3/</link><pubDate>Thu, 28 Jul 2022 10:30:00 +0000</pubDate><guid>https://sysml.doc.ic.ac.uk/event/seminar3/</guid><description>&lt;ul class="cta-group">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Events | SysML@ICL</title><link>https://sysml.doc.ic.ac.uk/event/</link><atom:link href="https://sysml.doc.ic.ac.uk/event/index.xml" rel="self" type="application/rss+xml"/><description>Recent &amp; Upcoming Events</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Sep 2022 10:30:00 +0000</lastBuildDate><image><url>https://sysml.doc.ic.ac.uk/media/logo_hu0e4a96b537c97ee56dff564995bc792a_102878_300x300_fit_lanczos_3.png</url><title>Recent &amp; Upcoming Events</title><link>https://sysml.doc.ic.ac.uk/event/</link></image><item><title>Seminar #4 - Colin Unger - Unity (OSDI'22)</title><link>https://sysml.doc.ic.ac.uk/event/seminar4/</link><pubDate>Thu, 08 Sep 2022 10:30:00 +0000</pubDate><guid>https://sysml.doc.ic.ac.uk/event/seminar4/</guid><description>&lt;ul class="cta-group">
+&lt;li>
+&lt;a href="https://imperial-ac-uk.zoom.us/j/96569969529?pwd=anprUE80SkFvcFh5ajE4OG45V1J1Zz09" class="btn btn-primary px-3 py-3">Join Zoom Session!&lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;div style="text-align: center;">
+&lt;a title="Add to Calendar" class="addeventatc" data-id="uf14485709" href="https://www.addevent.com/event/uf14485709" target="_blank">Add to Calendar&lt;/a>
+&lt;script type="text/javascript" src="https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js" async defer>&lt;/script>
+&lt;/div>
+&lt;h1 id="speaker-bio">Speaker Bio&lt;/h1>
+&lt;p>Colin Unger is a second year PhD student at Stanford advised by Alex Aiken. He received his bachelor&amp;rsquo;s degree from UC Santa Barbara, where he worked with Giovanni Vigna and Christopher Kruegel on binary analysis. He is broadly interested in compilers, program analysis, and optimization, especially in emerging applications, and is currently focused on hardware-aware optimization of deep learning workloads.&lt;/p></description></item><item><title>Seminar #3 - Abhinav Jangda - CoCoNet (ASPLOS'22)</title><link>https://sysml.doc.ic.ac.uk/event/seminar3/</link><pubDate>Thu, 28 Jul 2022 10:30:00 +0000</pubDate><guid>https://sysml.doc.ic.ac.uk/event/seminar3/</guid><description>&lt;ul class="cta-group">
 &lt;li>
 &lt;a href="https://imperial-ac-uk.zoom.us/j/91933548102?pwd=RFhsc1R0NWJldDFzNUZiMUU0dmd4dz09" class="btn btn-primary px-3 py-3">Join Zoom Session!&lt;/a>
 &lt;/li>
 &lt;/ul>
+&lt;div style="text-align: center;">
+&lt;a title="Add to Calendar" class="addeventatc" data-id="ZE14485670" href="https://www.addevent.com/event/ZE14485670" target="_blank">Add to Calendar&lt;/a>
+&lt;script type="text/javascript" src="https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js" async defer>&lt;/script>
+&lt;/div>
 &lt;h1 id="speaker-bio">Speaker Bio&lt;/h1>
 &lt;p>Abhinav Jangda is a PhD student at the University of Massachusetts
 Amherst and will join Microsoft Research in Fall 2022. His research

@@ -3,6 +3,10 @@
 &lt;a href="https://imperial-ac-uk.zoom.us/j/91933548102?pwd=RFhsc1R0NWJldDFzNUZiMUU0dmd4dz09" class="btn btn-primary px-3 py-3">Join Zoom Session!&lt;/a>
 &lt;/li>
 &lt;/ul>
+&lt;div style="text-align: center;">
+&lt;a title="Add to Calendar" class="addeventatc" data-id="ZE14485670" href="https://www.addevent.com/event/ZE14485670" target="_blank">Add to Calendar&lt;/a>
+&lt;script type="text/javascript" src="https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js" async defer>&lt;/script>
+&lt;/div>
 &lt;h1 id="speaker-bio">Speaker Bio&lt;/h1>
 &lt;p>Abhinav Jangda is a PhD student at the University of Massachusetts
 Amherst and will join Microsoft Research in Fall 2022. His research
