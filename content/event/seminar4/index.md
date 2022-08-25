@@ -1,51 +1,46 @@
 ---
-title: "Seminar #4 - Colin Unger - Unity (OSDI'22)"
+title: "Seminar #4 - Artem Artemev - Memory Safe Computations with XLA Compiler "
 
 location: Huxley 315 - Imperial College London
 #address:
 #  postcode: 'Room 145'
 
 
-summary: Colin Unger will present his work on Unity (OSDI'22)
+summary:  Artem Artemev will present his work on eXLA
 abstract: |
-  This paper presents Unity, the first system that jointly optimizes algebraic
-  transformations and parallelization in distributed DNN training.
-  Unity represents both parallelization and algebraic transformations as
-  substitutions on a unified parallel computation graph (PCG), which 
-  simultaneously expresses the computation, parallelization, and communication
-  of a distributed DNN training procedure.
-  
-  Optimizations, in the form of graph substitutions, are automatically generated
-  given a list of operator specifications, and are formally verified correct using
-  an automated theorem prover. Unity then uses a novel hierarchical search algorithm
-  to jointly optimize algebraic transformations and parallelization while 
-  maintaining scalability. The combination of these techniques provides a generic
-  and extensible approach to optimizing distributed DNN training, capable of integrating
-  new DNN operators, parallelization strategies, and model architectures with
-  minimal manual effort.
-  
-  We evaluate Unity on seven real-world DNNs running on up to 192 GPUs on 32 nodes
-  and show that Unity outperforms existing DNN training frameworks by up to 3.6×
-  while keeping optimization times under 20 minutes. Unity is available to use
-  as part of the open-source DNN training framework FlexFlow at
-  [https://github.com/flexflow/flexflow](https://github.com/flexflow/flexflow).
+  Software packages like TensorFlow and PyTorch are designed to support linear algebra operations, and
+  their speed and usability determine their success. However, by prioritising speed, they often neglect memory
+  requirements. 
+
+  As a consequence, the implementations of memory-intensive algorithms that are convenient
+  in terms of software design can often not be run for large problems due to memory overflows. Memory-
+  efficient solutions require complex programming approaches with significant logic outside the computational
+  framework. This impairs the adoption and use of such algorithms. To address this, we developed an XLA
+  compiler extension that adjusts the computational dataflow representation of an algorithm according to
+  a user-specified memory limit.
+
+  We show that k-nearest neighbour and sparse Gaussian process regression
+  methods can be run at a much larger scale on a single device, where standard implementations would have
+  failed. Our approach leads to better use of hardware resources. We believe that further focus on removing
+  memory constraints at a compiler level will widen the range of machine learning methods that can be
+  developed in the future.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-09-08T10:30:00Z'
-date_end: '2022-09-08T11:30:00Z'
+date: '2022-09-01T10:30:00Z'
+date_end: '2022-09-01T11:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-07-23T00:00:00Z'
+publishDate: '2022-08-25T00:00:00Z'
 
 authors: []
 profile: false
-tags: ['Compilers', 'DL Training', 'Pipeline Parallelism', 'Tensor Parallelism', 'Data Parallelism', 'Algebraic Optimization', 'Verification', 'Strategy Search']
+tags: ['Domain Specific Languages', 'Compilers', 'Dataflow', 'XLA', 'JAX', 'Memory Safety', 'Memory-Efficiency', 'Algorithms']
 categories: ['Seminar']
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: ''
@@ -71,14 +66,14 @@ slides:
 projects:
 ---
 
-{{% cta cta_link="https://imperial-ac-uk.zoom.us/j/96569969529?pwd=anprUE80SkFvcFh5ajE4OG45V1J1Zz09" cta_text="Join Zoom Session!" %}}
+{{% cta cta_link="https://imperial-ac-uk.zoom.us/j/91933548102?pwd=RFhsc1R0NWJldDFzNUZiMUU0dmd4dz09" cta_text="Join Zoom Session!" %}}
 {{< center >}}
 {{< rawhtml >}}
-<a title="Add to Calendar" class="addeventatc" data-id="uf14485709" href="https://www.addevent.com/event/uf14485709" target="_blank">Add to Calendar</a>
+<a title="Add to Calendar" class="addeventatc" data-id="ZE14485670" href="https://www.addevent.com/event/ZE14485670" target="_blank">Add to Calendar</a>
 	<script type="text/javascript" src="https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 {{< /rawhtml >}}
 {{< /center >}}
 
 # Speaker Bio
 
-Colin Unger is a second year PhD student at Stanford advised by Alex Aiken. He received his bachelor's degree from UC Santa Barbara, where he worked with Giovanni Vigna and Christopher Kruegel on binary analysis. He is broadly interested in compilers, program analysis, and optimization, especially in emerging applications, and is currently focused on hardware-aware optimization of deep learning workloads.
+Artem Artemev is at his second year PhD research in Imperial College London, with Mark van der Wilk as his supervisor. Before starting PhD, Artem has worked as Machine Learning Researcher and Engineer for start-up companies. His primary interest lies in machine learning theory and approximate Bayesian inference, particularly non-parametric machine learning methods like Gaussian processes. His recent work addresses the scalability of Gaussian processes while retaining the predictive properties of that model when approximations are involved.

@@ -44,7 +44,7 @@ tags: ['Domain Specific Languages', 'Compilers', 'DL Training', 'Communication',
 categories: ['Seminar']
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: ''
