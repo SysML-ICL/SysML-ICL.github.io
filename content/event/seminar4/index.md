@@ -66,10 +66,10 @@ slides:
 projects:
 ---
 
-{{% cta cta_link="https://imperial-ac-uk.zoom.us/j/91933548102?pwd=RFhsc1R0NWJldDFzNUZiMUU0dmd4dz09" cta_text="Join Zoom Session!" %}}
+{{% cta cta_link="https://imperial-ac-uk.zoom.us/j/98692000316?pwd=SnBNV21oQ2VGaGJDem51SVRlWG9pZz09" cta_text="Join Zoom Session!" %}}
 {{< center >}}
 {{< rawhtml >}}
-<a title="Add to Calendar" class="addeventatc" data-id="ZE14485670" href="https://www.addevent.com/event/ZE14485670" target="_blank">Add to Calendar</a>
+<a title="Add to Calendar" class="addeventatc" data-id="Ji14783117" href="https://www.addevent.com/event/Ji14783117" target="_blank">Add to Calendar</a>
 	<script type="text/javascript" src="https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 {{< /rawhtml >}}
 {{< /center >}}
