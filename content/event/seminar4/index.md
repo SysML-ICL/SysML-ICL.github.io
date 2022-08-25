@@ -40,7 +40,7 @@ tags: ['Domain Specific Languages', 'Compilers', 'Dataflow', 'XLA', 'JAX', 'Memo
 categories: ['Seminar']
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: ''
