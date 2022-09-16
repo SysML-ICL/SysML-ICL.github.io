@@ -45,7 +45,7 @@ tags: ['Compilers', 'DL Training', 'Pipeline Parallelism', 'Tensor Parallelism',
 categories: ['Seminar']
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: ''
