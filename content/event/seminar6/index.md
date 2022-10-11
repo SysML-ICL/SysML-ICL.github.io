@@ -1,7 +1,7 @@
 ---
 title: "Seminar #6 - Michael Kuchnik - Plumber (MLSys'22)"
 
-location: Huxley 315 - Imperial College London
+location: Huxley 218 - Imperial College London
 #address:
 #  postcode: 'Room 145'
 
