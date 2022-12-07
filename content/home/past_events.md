@@ -2,24 +2,23 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 100
 
-title: News
-active: false
-subtitle:
+title: Past Events
+active: true
+weight: 25
 
 content:
   count: 5
   filters:
     author: ''
     category: ''
-    exclude_featured: false
+    exclude_featured: true
     publication_type: ''
     tag: ''
   offset: 0
   order: desc
-  page_type: post
+  page_type: event
 design:
-  view: 2
-  columns: '1'
+  view: 5
+  columns: '2'
 ---

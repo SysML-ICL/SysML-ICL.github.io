@@ -34,7 +34,7 @@ tags: ['DL Training', 'Input Pipelines', 'Optimization', 'Analytical Modelling',
 categories: ['Seminar']
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: ''

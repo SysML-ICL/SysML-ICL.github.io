@@ -25,5 +25,9 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 3
+  columns: '2'
+
+
+  #{{< cond (eq $page.Count 0 ) "This place is empty... Let's hope there's a new SysML event soon!" "" >}}
 ---

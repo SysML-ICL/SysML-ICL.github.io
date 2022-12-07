@@ -21,13 +21,15 @@ design:
   # Add custom styles
   css_style:
   css_class:
+
+#{{% cta cta_link="https://teams.microsoft.com/l/team/19%3aLiP6Evh3ssJQ3g41q8vAsBNwwOFTzp7d_qq1y7oTo7A1%40thread.tacv2/conversations?groupId=d618d02e-3277-4cde-8d36-a4a39e138207&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307" cta_text="Join Us!" %}}
+
 ---
 
 <br>
  
-We are a group of researchers interested in keeping up with the latest work in the broad area of Systems for Machine Learning.
+We are a group of researchers interested in **Systems for Machine Learning** at [Imperial College London](https://www.imperial.ac.uk/).
 
-We host both a bi-weekly **reading group** and an occasional **seminar series**.
+We host monthly **Seminars** in conjunction with the [LSDS group](https://lsds.doc.ic.ac.uk/) and occasional **Reading Groups**.
 
-{{% cta cta_link="https://teams.microsoft.com/l/team/19%3aLiP6Evh3ssJQ3g41q8vAsBNwwOFTzp7d_qq1y7oTo7A1%40thread.tacv2/conversations?groupId=d618d02e-3277-4cde-8d36-a4a39e138207&tenantId=2b897507-ee8c-4575-830b-4f8267c3d307" cta_text="Join Us!" %}}
-
+Check our upcoming events below.
