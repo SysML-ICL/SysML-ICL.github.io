@@ -6,7 +6,7 @@ location: Huxley 315 - Imperial College London
 #  postcode: 'Room 145'
 
 
-summary: "Fan Mo will present his work PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments (MobiSys'22)"
+summary: "Fan Mo will present his work PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments (MobiSys'21)"
 abstract: |
   Although user data are not collected at a centralized location in federated learning (FL), adversaries can still execute various types of privacy attacks to retrieve sensitive information from the FL model parameters themselves, thus breaking the initial privacy promises behind FL.
   
