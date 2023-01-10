@@ -6,12 +6,12 @@ location: Huxley 315 - Imperial College London
 #  postcode: 'Room 145'
 
 summary: "Pathways: Asynchronous distributed dataflow for ML (MLSys'22)"
-abstract: "We discuss Pathways, a new large scale orchestration layer for accelerators using a sharded dataflow graph of asynchronous operators outputting futures."
+abstract: "Marcel Wagenlander presents Pathways, a new large scale orchestration layer for accelerators using a sharded dataflow graph of asynchronous operators outputting futures."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-01-19T10:30:00Z'
-date_end: '2023-01-19T11:30:00Z'
+date: '2023-01-19T14:00:00Z'
+date_end: '2023-01-19T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -34,7 +34,7 @@ header:
   caption: 'Image credit: [**Pathways Paper**](./featured.png)'
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://proceedings.mlsys.org/paper/2022/hash/98dce83da57b0395e163467c9dae521b-Abstract.html'
 url_slides: ''
 url_video: ''
 
@@ -57,6 +57,8 @@ projects:
 # <h5 style="text-align: center;">Share</h5>
 ---
 # Pathways
+
+{{% cta cta_link="https://us02web.zoom.us/j/85119887982?pwd=dU9udXRoc1lJNEhQR2xwOVN3SEJxZz09" cta_text="Join Zoom Session!" %}}
 
 [Paper Link](https://proceedings.mlsys.org/paper/2022/hash/98dce83da57b0395e163467c9dae521b-Abstract.html), SysML'22
 
