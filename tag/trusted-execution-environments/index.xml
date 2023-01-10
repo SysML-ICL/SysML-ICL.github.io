@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Trusted Execution Environments | SysML@ICL</title><link>https://sysml.doc.ic.ac.uk/tag/trusted-execution-environments/</link><atom:link href="https://sysml.doc.ic.ac.uk/tag/trusted-execution-environments/index.xml" rel="self" type="application/rss+xml"/><description>Trusted Execution Environments</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Feb 2023 14:00:00 +0000</lastBuildDate><image><url>https://sysml.doc.ic.ac.uk/media/logo_hu0e4a96b537c97ee56dff564995bc792a_102878_300x300_fit_lanczos_3.png</url><title>Trusted Execution Environments</title><link>https://sysml.doc.ic.ac.uk/tag/trusted-execution-environments/</link></image><item><title>Seminar #7 - Fan Mo - PPFL (MobiSys'21)</title><link>https://sysml.doc.ic.ac.uk/event/seminar7/</link><pubDate>Thu, 09 Feb 2023 14:00:00 +0000</pubDate><guid>https://sysml.doc.ic.ac.uk/event/seminar7/</guid><description>&lt;ul class="cta-group">
+&lt;li>
+&lt;a href="https://us02web.zoom.us/j/85119887982?pwd=dU9udXRoc1lJNEhQR2xwOVN3SEJxZz09" class="btn btn-primary px-3 py-3">Join Zoom Session!&lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;div style="text-align: center;">
+&lt;a title="Add to Calendar" class="addeventatc" data-id="wM15912240" href="https://www.addevent.com/event/wM15912240" target="_blank">Add to Calendar&lt;/a>
+&lt;script type="text/javascript" src="https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js" async defer>&lt;/script>
+&lt;/div>
+&lt;h1 id="speaker-bio">Speaker Bio&lt;/h1>
+&lt;p>Fan Mo is a Senior Researcher at Trustworthy AI Lab, Huawei. Before that, he completed his PhD at Imperial College London in 2022, advised by Professor Hamed Haddadi. He also worked for a short time in Nokia Bell Labs, Arm Research, and Telefónica Research. His research focuses on data privacy and trustworthiness in machine learning at the edge, machine learning in confidential computing, and distributed machine learning on lightweight mobile/IoT devices.&lt;/p></description></item></channel></rss>
