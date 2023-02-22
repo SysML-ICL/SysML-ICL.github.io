@@ -23,7 +23,7 @@ tags: ["Dataflow", "Distributed", "Asynchronous", "DL Training", "Accelerators",
 categories: ['Reading Group']
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Pathways Paper**](./featured.png)'

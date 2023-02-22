@@ -27,7 +27,7 @@ tags: ['Federated Learning', 'Trusted Execution Environments', 'Privacy', 'Intel
 categories: ['Seminar']
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: ''
@@ -53,7 +53,7 @@ slides:
 projects:
 ---
 
-{{% cta cta_link="https://us02web.zoom.us/j/85119887982?pwd=dU9udXRoc1lJNEhQR2xwOVN3SEJxZz09" cta_text="Join Zoom Session!" %}}
+{{% cta cta_link="https://imperial-ac-uk.zoom.us/j/92338545627?pwd=WUp0OWd5bUJOVno0cXNXM2g2enhMZz09" cta_text="Join Zoom Session!" %}}
 {{< center >}}
 {{< rawhtml >}}
 <a title="Add to Calendar" class="addeventatc" data-id="wM15912240" href="https://www.addevent.com/event/wM15912240" target="_blank">Add to Calendar</a>
