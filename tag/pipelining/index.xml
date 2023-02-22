@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pipelining | SysML@ICL</title><link>https://sysml.doc.ic.ac.uk/tag/pipelining/</link><atom:link href="https://sysml.doc.ic.ac.uk/tag/pipelining/index.xml" rel="self" type="application/rss+xml"/><description>Pipelining</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Apr 2023 14:00:00 +0000</lastBuildDate><image><url>https://sysml.doc.ic.ac.uk/media/logo_hu0e4a96b537c97ee56dff564995bc792a_102878_300x300_fit_lanczos_3.png</url><title>Pipelining</title><link>https://sysml.doc.ic.ac.uk/tag/pipelining/</link></image><item><title>Seminar #8 - Roger Waleffe - MariusGNN (EuroSys'23)</title><link>https://sysml.doc.ic.ac.uk/event/seminar8/</link><pubDate>Thu, 20 Apr 2023 14:00:00 +0000</pubDate><guid>https://sysml.doc.ic.ac.uk/event/seminar8/</guid><description>&lt;ul class="cta-group">
+&lt;li>
+&lt;a href="https://imperial-ac-uk.zoom.us/j/92338545627?pwd=WUp0OWd5bUJOVno0cXNXM2g2enhMZz09" class="btn btn-primary px-3 py-3">Join Zoom Session!&lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;div style="text-align: center;">
+&lt;a title="Add to Calendar" class="addeventatc" data-id="HM16232967" href="https://www.addevent.com/event/HM16232967" target="_blank">Add to Calendar&lt;/a>
+&lt;script type="text/javascript" src="https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js" async defer>&lt;/script>
+&lt;/div>
+&lt;h1 id="speaker-bio">Speaker Bio&lt;/h1>
+&lt;p>Roger Waleffe is a PhD student at the University of Wisconsin-Madison working under the supervision of Theodoros Rekatsinas. His work focuses on the intersection of systems and algorithmic challenges for IO-aware training of large-scale ML models. Roger is a lead in the Marius project (&lt;a href="https://marius-project.org/" target="_blank" rel="noopener">https://marius-project.org/&lt;/a>) which aims to make the use of Graph Neural Networks and Graph Embeddings over billion-scale graphs easier, faster, and cheaper. Roger holds a B.S. and M.S. in computer science from UW-Madison and is a recipient of the UW-Madison departmental graduate research fellowship and Goldwater scholarship.&lt;/p></description></item></channel></rss>
