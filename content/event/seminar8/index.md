@@ -28,7 +28,7 @@ tags: ['GNN', 'DL Training', 'Pipelining', 'Graphs', 'Big Data', 'GNN Training',
 categories: ['Seminar']
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: ''
